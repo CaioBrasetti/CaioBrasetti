@@ -1,6 +1,6 @@
  <!-- Header -->
 
-<h1>Hi, I am Caio Brasetti</a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1 align="center">Hi, I am Caio Brasetti</a> <img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 Full-Stack Developer with experience in management. Graduated from Le Wagon Web Development. Self-taught, I stay updated on market trends, always seeking new ways to solve problems. I have a strong determination to create innovative solutions to optimize processes and drive company growth.
 
