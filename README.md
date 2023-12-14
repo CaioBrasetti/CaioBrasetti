@@ -27,19 +27,14 @@ Full-Stack Developer with experience in management. Graduated from Le Wagon Web 
 <!-- My Stats -->
 <h3>My GitHub Stats</h3>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=CaioBrasetti&show_icons=true&theme=dark&locale=en" alt="CaioBrasetti" /></p>
-<br><br><br><br><br><br><br><br>
-
-<!-- Most used Languages -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CaioBrasetti&show_icons=true&theme=dark&locale=en&layout=compact" alt="CaioBrasetti" /></p>
-<br><br><br><br><br><br><br><br>
-
-<!-- Total Contributions -->
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=CaioBrasetti&theme=dark" alt="CaioBrasetti" /></p>
-<hr width="60%" >
+<img src="https://github-readme-stats.vercel.app/api?username=CaioBrasetti&&show_icons=true&count_private=true&theme=dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=CaioBrasetti&theme=dark"/>
+|---|---|
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioBrasetti&layout=compact&theme=dark"/>|
 
 <!-- Find me -->
+<div align="center">
 <h3><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Where to find me</h3>
 <p><a href="https://www.linkedin.com/in/caiobrasetti/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://api.whatsapp.com/send?phone=5511996521572&text=Ol%C3%A1%20Caio,%20vim%20pelo%20seu%20GitHub!" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
+</div>
 
